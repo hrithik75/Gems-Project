@@ -1,1 +1,2 @@
 Welcome to Git.
+Changefor WI1 to check commit -am
