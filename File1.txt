@@ -1,6 +1,10 @@
 Welcome to Git.
+
 Change- for WI1 to check commit -am.
 
 Change- for Bug1 login feature.
 
 Change- by team maste for WI2 3-way merging.
+
+Change for bug2 fix.
+
